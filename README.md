@@ -57,3 +57,8 @@ Jugadores:
  Campeonatos Equipos
  * 2023 / Barcelona / Liga Pro
  * 2023 / Liga de Quito / Liga Pro
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
